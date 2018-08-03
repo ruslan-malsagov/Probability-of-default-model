@@ -1,7 +1,7 @@
 # Probability-of-default-model
 Extra-curricular project. 
 
-Building probability of default (credit-scoring) model for banks-counterparties.
+Trying to build a probability of default (credit-scoring) model for banks-counterparties.
 
 Development process includes:
   1. Features visualization
